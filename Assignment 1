@@ -1,0 +1,33 @@
+Assignment – 2                                            C Language LIVE Community Classes.                                             MySirG
+
+1. Which of the following are real constants?
+       3, ‘A’, 4.5, 3.0, ‘+’, -25, -0.0
+Ans→ 4.5,3.0,-0.0
+
+2. Which of the following are not keywords in C Language?
+     auto, dynamic, static, typedef, define, enum, is, default, this, super
+Ans→ dynamic, define, is, this, super.
+
+3. Which of the following is not a valid variable name in C language?
+Ans→ ?
+
+4. Can we make a variable with the name switch? (Yes or No)
+Ans→No.
+
+5. Keywords are defined in the compiler or their meaning is stored in the library?
+Ans→ Keywords are defined in the compiler 
+
+6. Where variables are created? (RAM, ROM, Secondary Storage or CPU)
+Ans→ RAM 
+
+7. Who developed C Language?
+Ans→ C language developed by Dannis Ritchie.
+
+8. When was the C language developed?
+Ans→ Between 1972-1973
+
+9. What is the name of the operating system which is responsible for the inception of the C language?
+Ans→ Unix Operating System.
+
+10. Whether C language is a high level or low level programming language?
+Ans.→ C language is a high level programming language.
